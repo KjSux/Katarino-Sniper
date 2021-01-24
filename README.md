@@ -6,3 +6,6 @@ Pour commencez allez sur le serveur Katarino Tools et suivez les instructions le
 
 # Python 3.8.7
 https://www.python.org/ftp/python/3.8.7/python-3.8.7-amd64.exe
+
+# Important
+Je ne suis pas responsable de tout acte illégal effectué à l'aide de ce script. Utilisez-le sous votre propre responsabilité.
