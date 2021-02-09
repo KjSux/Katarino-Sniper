@@ -10,3 +10,4 @@ https://www.python.org/ftp/python/3.8.7/python-3.8.7-amd64.exe
 
 # Important
 Je ne suis pas responsable de tout acte illégal effectué à l'aide de ce script. Utilisez-le sous votre propre responsabilité.
+Et ceci n'est pas vraiment un projet github modfiable (C'est juste pour usage de lien d'installation) sinon je l'aurai pas obfusqué !
