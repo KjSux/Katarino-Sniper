@@ -10,3 +10,4 @@ pyPrivnote
 gtts
 dnspython
 image
+pypresence
