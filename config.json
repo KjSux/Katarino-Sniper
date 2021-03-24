@@ -1,9 +1,0 @@
-{
-    "token": "Met ton token (si tu c'est pas ce que c'est renseigne toi sur youtube).",
-    "prefix": "Le prefix du sniper mais de toute facon il n'y a pas de commande dans le sniper",   
-    
-    "nitro_sniper": true, 
-    "giveaway_sniper": true,
-    "slotbot_sniper": false,
-    "privnote_sniper": false
-}
