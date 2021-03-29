@@ -2,6 +2,7 @@
     "token": "Entrez votre token ici pour connecter le self bot sur votre compte.",
     "prefix": "Entrez un préfixe pour exécuter les commandes du selfbot.",     
     
+    "nitro_analyzer": true,
     "nitro_sniper": true, 
     "giveaway_sniper": true,
     "slotbot_sniper": false,
